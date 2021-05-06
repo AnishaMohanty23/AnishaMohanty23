@@ -7,7 +7,7 @@
 
 
 <a href="https://www.linkedin.com/in/anisha-mohantyy/" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="https://www.linkedin.com/in/anisha-mohantyy/" height="40" width="40" /></a>
-<a href="https://dribbble.com/anishamohanty" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/dribbble-48x48.png" alt="https://dribbble.com/anishamohanty" height="40" width="40" /></a>
+<a href="https://dribbble.com/anishamohanty" target="blank"><img align="center" src="https://github.com/AnishaMohanty23/socialmediaicons/blob/main/iconfinder_1_Dribbble_colored_svg_5296527.svg" alt="https://dribbble.com/anishamohanty" height="40" width="40" /></a>
 
 
 
