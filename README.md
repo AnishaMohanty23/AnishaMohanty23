@@ -6,9 +6,7 @@
 - 🤳 Bios are a little impersonal though. Let's connect? Reach out to me on any of the following and let's get talking!
 
 
-<a href="https://www.linkedin.com/in/anisha-mohantyy/" target="blank"><img align="center" src="https://github.com/AnishaMohanty23/socialmediaicons/blob/main/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.svg" alt="https://www.linkedin.com/in/anisha-mohantyy/" height="40" width="40" /></a>
-
-<a href="https://dribbble.com/anishamohanty" target="blank"><img align="center" src="https://github.com/AnishaMohanty23/socialmediaicons/blob/main/iconfinder_1_Dribbble_colored_svg_5296527.svg" alt="https://dribbble.com/anishamohanty" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/anisha-mohantyy/" target="blank"><img align="center" src="https://github.com/AnishaMohanty23/socialmediaicons/blob/main/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.svg" alt="https://www.linkedin.com/in/anisha-mohantyy/" height="40" width="40" /></a>   <a href="https://dribbble.com/anishamohanty" target="blank"><img align="center" src="https://github.com/AnishaMohanty23/socialmediaicons/blob/main/iconfinder_1_Dribbble_colored_svg_5296527.svg" alt="https://dribbble.com/anishamohanty" height="40" width="40" /></a>
 
 
 
