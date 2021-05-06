@@ -1,17 +1,13 @@
-### 👋 Hi there, I'm Anisha [website] 👋
+### 👋 Hi there, I'm Anisha!
 
  
 - 👀 Aiming to create and contribute to products catering to people from all walks of life.  
 - ✨ Firm believer of human-centered design and development > user-centric development
 - 🤳 Bios are a little impersonal though. Let's connect? Reach out to me on any of the following and let's get talking!
 
-
-### Connect with me:
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anisha-mohantyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anisha-mohantyy/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/anishamohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/anishamohanty" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anisha-mohantyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="anisha-mohantyy" height="30" width="40" /></a>
+<a href="https://dribbble.com/anishamohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="anishamohanty" height="30" width="40" /></a>
 <a href="https://medium.com/@anishamohanty100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@anishamohanty100" height="30" width="40" /></a>
 </p>
 
