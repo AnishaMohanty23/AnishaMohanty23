@@ -8,7 +8,7 @@
 
 👓 <a class="btn-linkedin" href="#">LinkedIn</a>
  
-<a target="_blank" href="https://www.linkedin.com/in/anisha-mohantyy/">
+<a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.linkedin.com/in/anisha-mohantyy/&summary=YOUR-SUMMARY&source=https://www.linkedin.com/in/anisha-mohantyy/">
 
 
 
