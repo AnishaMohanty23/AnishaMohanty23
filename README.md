@@ -5,12 +5,12 @@
 - ✨ Firm believer of human-centered design and development > user-centric development
 - 🤳 Bios are a little impersonal though. Let's connect? Reach out to me on any of the following and let's get talking!
 
-<a class="btn-google" href="#">Google+</a>
-<a class="btn-linkedin" href="#">LinkedIn</a>
- 
- <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=YOUR-URL">Share on Facebook</a>
 
-<a target="_blank" href="https://plus.google.com/share?url=YOUR-URL">Plus on Google+</a>
+👓 <a class="btn-linkedin" href="#">LinkedIn</a>
+ 
+<a target="_blank" href="https://www.linkedin.com/in/anisha-mohantyy/">
+
+
 
 
 
