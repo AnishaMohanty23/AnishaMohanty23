@@ -11,6 +11,7 @@
 </br>
 
 <a href="https://www.linkedin.com/in/anisha-mohantyy/" target="blank"><img align="center" src="https://github.com/AnishaMohanty23/socialmediaicons/blob/main/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.svg" alt="https://www.linkedin.com/in/anisha-mohantyy/" height="30" width="30" /></a> &nbsp; <a href="https://anishamohanty100.medium.com/" target="blank"><img align="center" src="https://github.com/AnishaMohanty23/socialmediaicons/blob/main/iconfinder_1_Medium_colored_svg_5296526.svg" alt="https://anishamohanty100.medium.com/" height="30" width="30" /></a> &nbsp; <a href="https://dribbble.com/anishamohanty" target="blank"><img align="center" src="https://github.com/AnishaMohanty23/socialmediaicons/blob/main/iconfinder_1_Dribbble_colored_svg_5296527.svg" alt="https://dribbble.com/anishamohanty" height="30" width="30" /></a>  &nbsp; <a href="anishamohanty100@gmail.com" target="blank"><img align="center" src="https://github.com/AnishaMohanty23/socialmediaicons/blob/main/iconfinder_google-gmail_7089163.svg" alt="anishamohanty100@gmail.com" height="30" width="30" /></a> 
+<a href="mailto:anishamohanty100@gmail.com?"><img align="center" src="https://github.com/AnishaMohanty23/socialmediaicons/blob/main/iconfinder_google-gmail_7089163.svg" height="30" width="30" /></a> 
 
 
 
