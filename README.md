@@ -9,7 +9,7 @@
 👓 <a class="btn-linkedin" href="#">LinkedIn</a>
  
 <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.linkedin.com/in/anisha-mohantyy/&summary=YOUR-SUMMARY&source=https://www.linkedin.com/in/anisha-mohantyy/">
- <a href="https://dribbble.com/https://dribbble.com/anishamohanty" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/dribbble-48x48.png" alt="https://dribbble.com/anishamohanty" height="30" width="40" /></a>
+ <a href="https://dribbble.com/anishamohanty" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/dribbble-48x48.png" alt="https://dribbble.com/anishamohanty" height="40" width="40" /></a>
 
 
 
